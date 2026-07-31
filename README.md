@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/aurora-banner.svg?v=2" width="100%" alt="KarryYang-jk cyber terminal banner" />
+  <img src="./assets/cyber-banner.svg" width="100%" alt="KarryYang-jk cyber terminal banner" />
 </div>
 
 <div align="center">
@@ -68,5 +68,5 @@ object KarryYang {
 
 <div align="center">
   <sub>Build quietly. Ship thoughtfully. Stay curious.</sub>
-  <img src="./assets/aurora-footer.svg?v=2" width="100%" alt="Animated cyber terminal footer" />
+  <img src="./assets/cyber-footer.svg" width="100%" alt="Animated cyber terminal footer" />
 </div>
